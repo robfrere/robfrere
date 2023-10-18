@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rob! <br/><a href="https://github.com/robfrere">Programmer</a>, <a href="https://www.linkedin.com/in/robfrere/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Rob! <br/><a href="https://github.com/robfrere">Manufacturing Engineer</a>, <a href="https://www.linkedin.com/in/robfrere/">Cybersecurity Champion</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
