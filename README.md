@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rob and this page is under construction! I have creatd this page to document my projects for cyber security, home lab and virtual machines<br/><a href="https://github.com/robfrere">Manufacturing Engineer</a>, <a href="https://www.linkedin.com/in/robfrere/">Cybersecurity Champion</a>, <a href="https://www.youtube.com/c/joshmadakor">Artist</a></h1>
+<h1>Hi, I'm Rob and this page is under construction! I have created this page to document my projects for my home lab, cyber security and virtual machines<br/><a href="https://github.com/robfrere">Manufacturing Engineer</a>, <a href="https://www.linkedin.com/in/robfrere/">Cybersecurity Champion</a>, <a href="https://www.youtube.com/c/joshmadakor">Artist</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
